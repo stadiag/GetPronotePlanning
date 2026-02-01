@@ -1,0 +1,6 @@
+{
+  "avecPageConnexion": false,
+  "jeton": "COLLE_ICI_LE_CHAMP_jeton_DU_QR_JSON",
+  "login": "COLLE_ICI_LE_CHAMP_login_DU_QR_JSON",
+  "url": "https://XXXXXXX.index-education.net/pronote/mobile.eleve.html"
+}

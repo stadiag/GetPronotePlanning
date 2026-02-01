@@ -1,0 +1,9 @@
+# Secrets / auth
+qr.json
+auth.json
+
+# Outputs
+timetable.json
+
+# Node
+node_modules/
